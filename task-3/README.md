@@ -22,3 +22,9 @@ Mongo db collection: [Link](https://drive.google.com/file/d/1ErxxgAUGi6Y3fp2i6Oo
 
 The report is available as task-3-report.pdf.
 
+Note regarding mongo db collections:  
+The files were created by using the command
+```
+mongodump -d <datasetname> -o <output_location>  
+```  
+and then tar zipping the resultant folder.
